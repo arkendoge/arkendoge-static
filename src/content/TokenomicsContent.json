@@ -1,0 +1,16 @@
+{
+  "title": "Tokenomics",
+  "text": "Decision is made together by DAO",
+  "section": [
+    {
+      "title": "NFT distribution",
+      "content": "ArkenDoge is limited to a total of 10,000 NFT. 9250 will be freely available to public to mint, while 750 will be give to people who helps ArkenDoge DAO",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Isn't this just a normal NFT? What's so special about it?",
+      "content": "ArkenDoge NFT represents a membership card which can be used to enjoy priviledge in the real world! Moreover, we have a secret plan for you in crypto world!",
+      "icon": "notes.svg"
+    }
+  ]
+}
